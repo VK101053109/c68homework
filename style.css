@@ -1,0 +1,16 @@
+html{
+    text-align: center;
+}
+.mybar{
+    top: 0;
+    z-index: 9999;
+    position: sticky;
+}
+.wn{
+    font-family: 'Cinzel Decorative', cursive;
+    color: black;
+}
+.img1{
+    width: 600px;
+    height: 500px;
+}
